@@ -1,2 +1,2 @@
 # rawlingsjensen.github.io
-first repository for me
+First repository for me learning how to create websitess.
