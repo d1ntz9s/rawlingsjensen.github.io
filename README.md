@@ -1,3 +1,7 @@
 # rawlingsjensen.github.io
-first repository for me
-Learning how to create web pages and code them
+
+<<<<<<< branchone-edits
+
+First repository for me learning how to create websites.
+
+>>>>>>> main
